@@ -1,4 +1,4 @@
-import JavaTest;
+import JavaTest.*;
 class JavaMain{
   public static void main(String args[]){
     JavaTest jt=new JavaTest();
