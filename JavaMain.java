@@ -1,7 +1,7 @@
-import javapackage.JavaTest.*;
+//import javapackage.JavaTest.*;
 class JavaMain{
   public static void main(String args[]){
-    JavaTest jt=new JavaTest();
-   System.out.println(jt.getSum());
+    //JavaTest jt=new JavaTest();
+   System.out.println("Hello Java!!!");
   }
 }
